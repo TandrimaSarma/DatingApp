@@ -1,0 +1,4 @@
+.vscodw
+bin
+obj
+*.db
