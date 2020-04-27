@@ -9,5 +9,7 @@ namespace DatingApp.API.Data
 
        // public DataContext() : base() { }
         public DbSet<Value> Value {get;set;}
+
+        public DbSet<User> Users {get; set;} 
     }
 }
